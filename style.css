@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   width: 100%;
 }
-
+/* added color to navbar words and when hovered it turns blue */
 .nav-link.active {
   color:#10C9C3 !important;
 }
@@ -14,3 +14,5 @@ html, body {
 .nav-link:hover {
   color:#10C9C3 !important;
 }
+/* added color to navbar words and when hovered it turns blue */
+
