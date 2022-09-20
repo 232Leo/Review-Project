@@ -25,3 +25,10 @@ html, body {
   background-size: cover !important;
 }
 /* added first background image, and made it cover teh whole screen with no repeats */
+
+#firstheader {
+  text-align: right !important;
+  border-color:black !important;
+  border-size: 2px !important;
+  
+}
