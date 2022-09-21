@@ -28,118 +28,42 @@ html, body {
 
 
 #rightcol {
-  margin-top: 290px;
+  margin-top: 180px;
   margin-bottom:0px ;
   margin-left:0px ;
   margin-right:0px ;
   font-family:NunitoSans;  
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* saved code in case */
-
- position:relative !important;
-  top: 50% !important;
-  transform: translate(-50%) !important;
-
-/* saved code in case */
-
-.col-1 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
+#firstbutton {
+  margin-top: 20px;
 }
 
-.col-2 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
+#whiteimg {
+  background-color: white !important;
+  
 }
 
-.col-3 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
+#center {
+  text-align: center;
 }
 
-.col-4 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
+#pcenter {
+  border-left:-20px ;
+  border-right:-20px ;
 }
 
-.col-5 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
+#thirdcontainer {
+  margin-top:50px;
 }
 
-.col-6 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
+#firsthalf {
+  
 }
 
-.col-7 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
-}
-
-.col-8 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
-}
-
-.col-9 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
-}
-
-.col-10 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
-}
-
-.col-11 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
-}
-
-.col-12 {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
-}
-
-.row {
-  border-style: solid !important;
-  border-color:black;
-  border: 2px;
+#secondhalf {
+  width:100% important;
+  height:100% !important;
+  background-repeat:no-repeat !important;
+  background-size: cover !important;
 }
